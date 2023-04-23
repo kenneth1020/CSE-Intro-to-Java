@@ -1,0 +1,50 @@
+// Chapter 6 Methods
+// Kenneth Tran
+// 3/15/2018
+// This program will demonstrate creating and using method
+
+/* Lesson note: Methods allow for reuse of code within the program. 
+ * This is a way of separating out code form the main
+ *  There will always be two parts to the method
+ *  	a method definition - what the method will do
+ *  	a call to the method - tell it to do it
+ */
+
+public class Methods {
+	
+	/* Main Method*/
+	public static void main(String[] args) {
+		
+		//Declare some variables (num1, num2, MaxNum
+		int num1 = 5;
+		int num2 = 2;
+		
+		
+		//Calling the max function
+		int maxNum = max(num1, num2);
+
+		//print the numbers and the maximum number of the two		
+		System.out.println("The maximum between " + num1 +
+			 " and " + num2  + " is " + maxNum);
+			
+	}//Close the main method
+	
+	/* max Method */
+	//max method will determine the maximum of two numbers
+	//and return that number
+	public static int max(int number1, int number2) {
+		//declare variable to hold result
+		int result;
+		//check if number1 is greater than number2
+		if(number1 > number2)
+			//if yes, assign number1 to result
+			result = number1;
+			//else, assign number2 to result
+		else
+			result = number2;
+		//return the value of maximum number to main
+		return result;
+		
+	}//close the max method
+
+}// Close the Class

@@ -1,0 +1,67 @@
+
+// Formatting Console Output
+// Kenneth Tran
+// 5/3/2017
+// This program will console formatting
+
+import java.io.*;
+import java.util.*;
+
+public class ConsoleFormatting //Starter Code
+{
+
+	public static void main(String[] args) 
+	{
+		/*
+		 * Format Specifiers
+		 * Four parts:
+		 * 1. Symbol to indicate value will be formatted: %
+		 * 2. Alignment: 
+		 * 		minus sign (-) to left align, 
+		 * 		blank/no space for right align
+		 * 3. number of spaces: 
+		 * 		whole number = total spaces, 
+		 * 		decimal value = number of decimal places	
+		 * 4. data type
+		 * 
+		 * Example:
+		 * 	to print 10/3 with 2 decimal places, right aligned, 
+		 *  and with 3 leading blank spaces
+		 * 		%7.2d   |   3.33|
+		 * 	same thing left aligned
+		 * 		%-7.2d	|3.33   |
+		 * 
+		 * add \n for new line
+		 * 
+		 * Use printf to indicate formating is being used
+		 * 		System.out.printf("%7.2d\n", double(10 / 3))
+		 * 
+		 */
+		
+		//Example
+		double oneThird = 10 / 3.0;
+		System.out. println(oneThird);
+		System.out.printf("%7.2f\n", oneThird);
+		
+		//Formatting a table
+		//Display the header of the table
+		System.out.printf("%-10s%-10s%-10s%-10s%-10s\n", 
+				"Degrees", "Radians", "Sine", "Cosine", "Tangent");
+		
+		//Display values for 30 degrees
+		int degrees = 30;
+		double radians = Math.toRadians(degrees); 
+		System.out.printf("%-10d%-10.4f%-10.4f%-10.4f%-10.4f\n", 
+				degrees, radians, Math.sin(radians), 
+				Math.cos(radians), Math.tan(radians));
+		
+		//Display values for 30 degrees
+		degrees = 60;
+		radians = Math.toRadians(degrees); 
+		System.out.printf("%-10d%-10.4f%-10.4f%-10.4f%-10.4f\n", 
+				degrees, radians, Math.sin(radians), 
+				Math.cos(radians), Math.tan(radians));
+		
+	}//Close main method	
+	
+}//Close class

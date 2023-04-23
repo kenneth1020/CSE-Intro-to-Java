@@ -1,0 +1,71 @@
+/**
+ * Kenneth Tran
+ * 03/21/18
+ * This program will demonstrate the used of the game craps
+ */
+
+//creating scanner
+import java.util.Scanner;
+
+
+//activate the scanner
+Scanner input = new Scanner(System.in);
+
+
+//User input
+int variable =input.nextInt();
+double variable =input.nextInt();
+
+
+//creating string and upper casing for it to read
+		String s = input.nextLine();
+		s=s.toUpperCase();
+
+NOTE: That it start from zero
+
+//generate random number 1-100
+int randomNum = (int) (Math.random() * 100);
+
+NOTE:Other Commands
+do{
+}while();
+
+if{
+}
+else if{
+}
+else{
+}
+
+double/int variable = *name*(enter value);
+public static (double/int) *name* ((double/int) Replace) 
+{
+int/double result
+result = Math.round(result * 100) / 100.0;
+		return result;
+}
+
+string.length();
+
+string.charAt(variable/number);
+
+%remainder
+*multi
++add
+-sub
+/divide
+
++= assignment 
+
+Math.pow(number,pow)
+Math.Pi
+Math.abs(a)
+Math.(min/max)(a, b)
+Math.sqrt(a)
+
+switch(intExpression)
+{
+case value1:
+default:
+
+}

@@ -1,0 +1,89 @@
+
+/* Date: 4/25/2018
+ * Programmer: Kenneth Tran
+ * Program: Reverse Name
+ * Version: 1.0
+ * Demostrates text files input and output
+ */
+
+//import library
+import java.io.*;
+import java.util.*;
+
+public class ReverseNames {
+	
+
+	public static void main(String[] args) {
+		//Need to read the txt file
+		//copy first name in an array
+		//then break at the space to read the last name saved in array
+		//then put two array together in a new array 
+		//have it organizes by last names
+		//write into text file 
+		//Writing output to a text file
+		
+		
+				//creating files
+				String fileName = "ReverseName[KT].txt";
+				String name = "names.txt";
+				
+				//variable
+				String list [] = new String[22];
+				
+				
+				//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+				
+				//Reading a text file
+				Scanner inputStream = null;
+				
+				//catch exception 
+				try
+				{
+					inputStream = new Scanner(new File (name));
+					System.out.println("Reading//.... " + name);
+				}
+				
+				catch(FileNotFoundException e)
+				{
+					System.out.println("Error opening the file " + name + ". Oppss i drop it somewhere!!!");
+					System.exit(0);
+				}
+				
+				
+				//Open the file PrintWriter
+				PrintWriter outputStream = null;
+				
+				//catch out exception
+				try
+				{
+					outputStream = new PrintWriter(fileName);
+					System.out.println("opening//... " + fileName + "..... Ready for writing");
+				}
+				catch(FileNotFoundException e)
+				{
+					System.out.println("Error opening the file " + fileName + ". What have you done? You have doom us all human!!!");
+					System.exit(0);
+				}
+
+			//reading and organizing names
+				while(inputStream.hasNextLine())
+	{
+					String text = inputStream.nextLine();
+					int space = text.indexOf(" ") + 1;
+					String firstName = text.substring(0, space);
+					String lastName = text.substring(space, text.length());
+					String reverseName = lastName + ", " + firstName;
+					outputStream.println(reverseName);
+					System.out.println(reverseName);
+	}
+			
+				
+				
+				
+				//Close the file
+				inputStream.close();
+				outputStream.close();
+				
+	}
+
+}

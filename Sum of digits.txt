@@ -1,0 +1,70 @@
+/**
+ * 
+ */
+
+/**
+ * Chapter 6
+// Kenneth Tran
+// 3/07/2018
+// This program will make a the sum of individual digits 
+ */
+
+//creating scanner
+import java.util.Scanner;
+
+
+
+public class SumOfDigits {
+
+	//printing result process
+	public static void main(String[] args) 
+	{
+		//activate the scanner
+		Scanner input = new Scanner(System.in);
+				
+		//create asking user input
+		System.out.println("This program will sum the digits of a number you enter.\r\n" + 
+				"Enter a number greater than 1000: ");
+		
+		//reading user variable
+		int digits = input.nextInt();
+		
+		//showing user variable
+		System.out.print("The sum of digits for " + digits);
+		
+		//going to counting method
+		int count = counting(digits);
+		
+		//showing result and ending
+		System.out.println(" is " + count);
+		System.out.println("Thank you for using SUM OF DIGITS");
+	}//end main
+	
+	
+	
+	//counting method
+	public static int counting(int dig)
+	{
+		//making variables
+		int result; 
+		int lastNumber;
+		int sum= 0;
+		
+		//calculation until number is no longer greater than 0
+		while (dig > 0)
+		{
+			//calculating the last digit
+			lastNumber= dig % 10;
+			//adding last digit
+			sum = sum + lastNumber;
+			//reducing value
+			dig= dig/10;
+		}
+		
+		//coping sum to result
+		result = sum;
+		
+		//sent it out
+		return result;
+	}//end counting
+}

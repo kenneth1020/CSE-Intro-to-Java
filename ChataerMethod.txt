@@ -1,0 +1,42 @@
+//Chapter 4 Character Methods
+//Kenneth Tran
+//2/14/2018
+//This program will demonstrate various Character methods
+
+/* Lesson note: Characters are based on their Unicode (or
+* 	ACSII) code. So their methods treat them like the 
+*  numerical equivalent of their ASCII code, as in A = 65.
+*  Also note that special characters require an Escape 
+*  sequence in order to be displayed The \ is placed in
+*  front of the character (\" to display a ")
+*  
+* The syntax is:
+*  	 Character.methodName(arguments)
+*/
+
+import java.util.Scanner;
+
+public class CharacterMethods {
+	public static void main(String[] args) {
+		
+		//Create a Scanner object for user input
+		Scanner input = new Scanner(System.in);
+		
+		//Prompt user to enter a character
+		System.out.println("Enter a characters: ");
+		//Change the line below to read Character from keyboard
+		char ch1 = input.nextLine().charAt(0);
+		//Prompt user to enter a number between 0 and 9
+		System.out.println("Enter a number between 0 and 9:");
+		//Change the line below to read a number from keyboard
+		char ch2 = input.nextLine().charAt(0);
+		
+		//Some character methods
+		System.out.println(ch1 + " to upper case is " + Character.toUpperCase(ch1) );
+		System.out.println(ch2 + " is digit is " + Character.isDigit(ch2) );
+		System.out.println(ch2 + " is letter is " + Character.isLetter(ch2) );
+		
+		
+		//etc. See tables on pages 128-129		
+	}
+}

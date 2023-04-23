@@ -1,0 +1,85 @@
+package babies;
+/* Date: 5/15/2018
+ * Programmer: Kenneth Tran
+ * Program: Baby Name
+ *  * Version: 1.0
+ * Demostrates the web search for babies name to see the ranking of that name whenever it girl or boy
+ */
+
+//loading libraries
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+public class babyname {
+	
+	public static void main(String[] args) {
+		//ready scanner
+        Scanner input = new Scanner(System.in);
+        //asking user for year
+        System.out.print("Enter year: ");
+        //wanting for input
+        String year = input.next();
+        //asking user for gender
+        System.out.print("Enter gender: ");
+        //waiting for input
+        String gender = input.next();
+        //asking for name
+        System.out.print("Enter name: ");
+        //waiting for input
+        String name = input.next();
+        input.close();
+
+        //creating the file 
+        File file = new File("babynamesranking" + year + ".txt");
+        
+        //checking if file exist
+        if (!file.exists()) {
+        	//telling user that file doesn't exist
+            System.out.println("No record for " + year + "Maybe try another file or some else. Because the trash bin has been open. Maybe its in there.");
+            System.exit(1);
+        }
+
+        //crating variable 
+        int rank = 0;
+        
+      //catch exception 
+        try {
+            Scanner read = new Scanner(file);
+            while (read.hasNext()) 
+            {
+            	
+                String s = read.nextLine();
+                String[] temp = s.split(" ");
+
+                //checking if boy and name
+                if (gender.equalsIgnoreCase("M") && temp[1].contains(name))
+                    rank = new Integer(temp[0]);
+                //if not the looks in girl and check if it's fine the name
+                else if (temp[3].contains(name))
+                    rank = new Integer(temp[0]);
+            }
+            
+        } 
+        catch (FileNotFoundException e) 
+        {
+        	//tell them the error
+            e.printStackTrace();
+        }
+
+        if (rank == 0) 
+        {
+        	//if not found then tell them the error
+            System.out.println("The name "+name+" is not ranked in year " + year);
+        }
+        //if found then tell user name, rank, and year
+        else 
+        {
+
+            System.out.println(name+" is ranked #"+rank+" in year "+ year);
+        }
+
+
+    }
+
+}

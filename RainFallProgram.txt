@@ -1,0 +1,134 @@
+/**
+ * Kenneth Tran
+ * Date: 05/02/18
+ * Input Monthly data input from file
+ * Purpose: calculates monthly average and monthly deviation
+ */
+
+
+import java.io.*;
+import java.util.*;
+import java.util.Scanner;
+public class Rainfall {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+		// Create scanner
+		Scanner input = new Scanner(System.in);
+		
+		//variables
+		double value [] = new double[12]; 		
+		double average = 0;	
+		double devi = 0;
+		
+		//making months
+		String[] months = new String[12]; 
+		months [0] = "JAN";
+		months [1] = "FEB";
+		months [2] = "MAR";
+		months [3] = "APR";
+		months [4] = "MAY";
+		months [5] = "JUN";
+		months [6] = "JUL";
+		months [7] = "AUG";
+		months [8] = "SEP";
+		months [9] = "OCT";
+		months [10] = "NOV";
+		months [11] = "DEC";
+		
+		//Display to user
+		System.out.println("Enter the file year: ");
+		int fileName = input.nextInt();
+		String type = "rainfall" + fileName + ".txt";
+		String type2 ="RainfallStatics.txt"; 
+		
+		//Open the file PrintWriter
+				PrintWriter outputStream = null;
+			
+				//catch out exception
+				try
+				{
+					outputStream = new PrintWriter(type2); 
+				}
+				catch(FileNotFoundException e)
+				{
+					System.out.println("Error opening the file " + type2 + ". What have you done? You have doom us all human!!!");
+					System.exit(0);
+				}
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+				//Reading a text file
+				Scanner inputStream = null;
+
+				//catch exception 
+				try
+				{
+					inputStream = new Scanner(new File (type));
+				}
+				catch(FileNotFoundException e)
+				{
+					System.out.println("Error opening the file " + type + ". Oppss i drop it somewhere!!!");
+					System.exit(0);
+				}//end exception
+
+				while(inputStream.hasNextLine())
+	{
+					for(int i = 0; i <12; i++)
+					{
+					value [i]= inputStream.nextDouble();
+					}
+		
+		
+	}//end while input stream
+				
+				//calculating average
+				for(int i = 0; i <12; i++)
+				{
+				average += value [i];
+				}
+				average = getAverage(average); 
+				
+		//Display
+		System.out.println("Monthly Rainfall Amonuts");
+		System.out.println("   for the year " + fileName);
+		System.out.println("     Merced County");		
+		System.out.print("Average for year: ");
+		System.out.printf("%-4.2f\n", average);			
+		System.out.println("------------------------------");
+		System.out.printf("%-10s%-10s%-10s\n", "Month", "Rain" , "Deviation");
+		System.out.println("------------------------------");
+		
+		//print out months/value/deviation
+		for(int j = 0; j < 12; j++)
+		{
+			System.out.print(months [j]);
+			System.out.printf( "%10.2f", value[j]);
+			devi = getDevi(value[j], average);
+			System.out.printf( "%10.2f\n", devi);
+		}
+		
+		
+		
+	}//end main
+	
+	//average calculation
+	public static double getAverage (double value)
+	{ 
+			double result;
+			result = value/12;
+			return result;
+	}//end of average
+	
+	//devi calculation
+	public static double getDevi(double val,  double ave)
+	{
+		double result;
+		result = val - ave;
+		return result;
+	}//end of deviation 
+		
+	
+
+}//end class

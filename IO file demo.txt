@@ -1,0 +1,88 @@
+
+/* Date: 4/25/2018
+ * Programmer: Kenneth Tran
+ * Program: Reverse Name
+ * Version: 1.0
+ * Demostrates text files input and output
+ */
+
+//import library
+import java.io.*;
+import java.util.*;
+
+public class ReverseNames {
+
+	public static void main(String[] args) {
+	
+		//Writing output to a text file
+		String fileName = "myFile.txt";
+		
+		//Open the file PrintWriter
+		PrintWriter outputStream = null;
+		
+		//catch out exception
+		try
+		{
+			outputStream = new PrintWriter(fileName); 
+		}
+		catch(FileNotFoundException e)
+		{
+			System.out.println("Error opening the file " + fileName + ". What have you done? You have doom us all human!!!");
+			System.exit(0);
+		}
+		
+		//write to File
+		System.out.println("Enter three lines of text: ");
+		Scanner Keyboard = new Scanner(System.in);
+		
+		for(int count = 1; count <= 3; count++)
+		{
+			String Line = Keyboard.nextLine();
+			outputStream.println(count + " " +  Line);
+		}
+		
+		//close the file
+		outputStream.close();
+		
+		//Cpmfirmation notice to user
+		System.out.println("Those lines were written to " + fileName + ".  Also I'm send your broswer history to everybody on your contact list.");
+		
+		
+		
+		//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		//Reading a text file
+		Scanner inputStream = null;
+		
+		
+		//catch exception 
+		try
+		{
+			inputStream = new Scanner(new File (fileName));
+		}
+		catch(FileNotFoundException e)
+		{
+			System.out.println("Error opening the file " + fileName + ". Oppss i drop it somewhere!!!");
+			System.exit(0);
+		}
+		
+		//Read the file
+		System.out.println("The file " + fileName + " contains the following lines:");
+		while(inputStream.hasNextLine())
+		{
+			String text = inputStream.nextLine();
+			System.out.println(text);
+		}
+		
+		//Close the file
+		inputStream.close();
+		
+		
+		
+		
+		
+		
+		
+		
+	}//end main
+
+}//end class

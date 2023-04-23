@@ -1,0 +1,44 @@
+	// Chapter 4 String Methods
+	// Kenneth Tran
+	// 2/08/2017
+	// This program will demonstrate various String methods
+
+	/* Lesson note:String methods are instance methods. They
+	 *  require an object to be used. In other words, 
+	 *  they  can not stand alone. 
+	 *  The syntax is:
+	 *  	 referenceVariable.methodName(arguments)
+	 */
+
+	import java.util.Scanner;
+
+	public class StringMethods {
+		public static void main(String[] args) {
+			
+			//Create a Scanner object for user input
+			Scanner input = new Scanner(System.in);
+			
+			//Prompt user to enter some text
+			System.out.println("Enter three words separated by spaces: ");
+			//Declare three String variables (s1, s2, and s3) and read from keyboard
+			String s1 = input.next();
+			String s2 = input.next();
+			String s3 = input.next();
+			
+			
+
+			//print the Strings to the console
+			System.out.println("s1 is " + s1 );
+			System.out.println("s2 is " + s2 );
+			System.out.println("s3 is " + s3);
+			
+			//Some String methods		
+			System.out.println("The length of s1 is " + s1.length());	
+			System.out.println("The last letter in s2 is " + s2.charAt(s2.length() -1) );
+			System.out.println("s3 to upper case is " + s3.toUpperCase() );		
+			System.out.println("The strings as entered are " + "\"" + s1 + " " + s2 + " " + s3 + "\"" );
+			
+			
+			//etc. See tables on pages 130		
+		}
+	}

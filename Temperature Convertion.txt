@@ -1,0 +1,82 @@
+/**
+ * 
+ */
+
+/**
+ * Kenneth Tran
+ * 03/21/18
+ *This method will demonstrate converting your temperature to from Fahrenheit to Celsius or vice versa
+ */
+
+
+//creating scanner
+import java.util.Scanner;
+
+public class TempConversions {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		//activate the scanner
+		Scanner input = new Scanner(System.in);
+
+		//Display for user input for number
+		System.out.println("Enter the temperature you want to convert: ");
+		
+		//reading user variable for temperature
+		double temperture = input.nextDouble();
+		
+		//Display for user input on selection
+		System.out.println("Enter the temperature system of your temperature (C or F): ");
+		
+		//reading user variable for C or F
+		String s = input.next();
+		s=s.toUpperCase();
+		
+		//if equal C then convert Celsius to Fahrenheit
+		if(s.charAt(0) == 'C' )
+		{
+			System.out.print(temperture + " Celsius = ");
+			double Cel = cTemp(temperture);
+			System.out.println(Cel + " Fahrenheit");
+			System.out.println("Thank you for using the lazy converter Goodbye");
+		}
+		
+		//if equal C then convert Fahrenheit to Celsius
+		else if(s.charAt(0) == 'F')
+		{
+			System.out.print(temperture + " Fahrenheit = ");
+			double Fah = fTemp(temperture);
+			System.out.println(Fah + " Celsius");
+			System.out.println("Thank you for using the lazy converter Goodbye");
+		}
+		
+		//if used other letter then program will show error
+		else
+		{
+			System.out.println("Sorry wrong selection");
+			System.out.println("Thank you for using the lazy converter Goodbye");
+		}
+		
+	}//end main
+	
+	//Convertion to Fahrenheit
+	public static double cTemp(double tempc)
+	{
+		double result;
+		result = ( (9.0/5.0) * tempc + 32); 
+		//sent it out
+		result = Math.round(result * 100) / 100.0;
+		return result;
+	}//end ctemp
+	
+	//Convertion to Celsius
+	public static double fTemp(double tempf)
+	{
+		double result;
+		result = ((5.0/9.0) * (tempf-32));
+		result = Math.round(result * 100) / 100.0;
+		return result;
+	}//end ftemp
+}

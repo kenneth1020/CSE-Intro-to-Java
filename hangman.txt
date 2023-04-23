@@ -1,0 +1,180 @@
+	public static void main(String[] args) {
+	//creating files
+	String name = "hangman.txt";
+	//variable
+	String lists [] = new String[100];
+	int nums[] = new int [100];
+	//Reading a text file
+	Scanner inputStream = null;
+	
+	//catch exception 
+	try
+	{
+		inputStream = new Scanner(new File (name));
+		System.out.println("Reading//.... " + name);
+	}
+	
+	catch(FileNotFoundException e)
+	{
+		System.out.println("Error opening the file " + name + ". Oppss i drop it somewhere!!!");
+		System.exit(0);
+	}
+	
+	
+	
+	while(inputStream.hasNextLine())
+	{
+					String text = inputStream.nextLine();
+					//make values
+					int little = text.length();
+					int letters= 0;
+					int count= 0;
+					int command = 0;
+					
+					//reading the whole notes
+					for(int j = 0; j < little; j++)
+					{
+						letters++;
+						
+						//counting every space
+						if(text.charAt(j) == ' ')
+						{
+						nums[count] = letters;
+						count++;
+						}	
+					}
+					
+					//making first string of letter
+					int space = text.indexOf(" ");
+					lists[0]= text.substring(0, space);
+					
+					//making array of letters from document
+					int k = 1;
+					int j = 2;
+					for (int i= 0; i < 19; i++)
+					{
+					lists[k]= text.substring(nums[k], nums[j]-1);
+					k++;
+					j++;
+					}
+					lists[19]= text.substring(nums[18],nums[19]-1);
+					lists[20]= text.substring(nums[19], nums[20]-1);
+					lists[21]= text.substring(nums[20], 198); 
+					
+					//creating random number 0-21
+					int randomNum = (int) (Math.random() * 21);
+					System.out.println(randomNum);
+					
+					//life points
+					int life = 10;
+					
+					//creating filler that will read each character
+					int counts = lists[randomNum].length();
+					char[] filler = new char[count];
+					int f = 0;
+					String w = "*";
+					
+					//creating word guessing
+					while(f < counts)
+					{
+						filler[f]= w.charAt(0);
+						if(lists[randomNum].charAt(f) == ' ') 
+						{
+						filler[f] = '-';
+						}
+						f++;
+					}
+					
+					
+					//in loop of guessing game
+					while (life > 0 )
+					{
+						//try to guess
+						System.out.println("Would you like to guess y or n?");
+						Scanner input= new Scanner(System.in);
+						char v =input.next().charAt(0);
+						
+						//guessing word
+						if(v == 'y')
+						{
+							System.out.println("Please type in your guess");
+							Scanner inp= new Scanner(System.in);
+							String s = inp.nextLine();
+							int debate = 0;
+							for( int o = 0; o < s.length(); o++)
+							{
+								if(lists[randomNum].charAt(o) == s.charAt(o))
+								{
+									debate++;
+								}
+							}
+							boolean test = lists[randomNum].equals(s);
+							
+							
+							//if its right you win
+							if(debate == lists[randomNum].length())
+							{
+								System.out.println(s);
+								System.out.println("You win the game hurray no go away");
+								System.exit(0);
+							}
+							
+							//if wrong then you lose
+							else
+							{
+								System.out.println(s);
+								System.out.println("You lost the game");
+								System.exit(0);
+							}	
+						}
+						
+						//guessing letter
+						else if (v== 'n')
+						{
+							System.out.println("Please type in a letter of a word");	
+						Scanner s = new Scanner(System.in); //to read characters
+						char x =s.next().charAt(0) ; //character input
+						//if letter correct it is add to filler to reveal
+						if(lists[randomNum].contains(x+""))
+						{
+							for(int y = 0; y < lists[randomNum].length(); y++)
+							{
+								if(lists[randomNum].charAt(y) == x)
+								{
+								filler[y] = x;
+								command++;
+								}
+							}
+						}
+						
+						//if no letter is matching lose a life
+						else
+						{
+							life--; //lose a chance 
+						}
+						
+						//if all letter are equal you win
+						if(lists[randomNum].length() == command)
+						{
+							System.out.println(filler);
+							System.out.println("You win the game hurray no go away");
+							System.exit(0);//game will end
+						}
+						
+						//if not then you lose
+						if(life == 0)
+						{
+							System.out.println("You lost the game");
+							System.exit(0);//game will end
+						}
+					System.out.print(command + " ");		
+					System.out.print(filler);
+					System.out.println("   Life remaining = " + life);
+						}
+						
+					}//end of while loop of guessing
+					
+		}//end inputstream
+	
+	
+	}//end main

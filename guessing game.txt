@@ -1,0 +1,82 @@
+/**
+ * 
+ */
+
+// Chapter 4
+// Kenneth Tran
+// 3/07/2018
+// This program will make a random number 1- 100 and user must guess the right number
+/**
+ * @author v113
+ *
+ */
+import java.util.Scanner;
+public class Guessinggame 
+{
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		//activate the scanner
+		Scanner input = new Scanner(System.in);
+		
+		//Introduce the users
+		System.out.println("Welcome to the Guessing Game!");
+		System.out.println("I am thinking of a number between 1 and 100");
+		System.out.println("Please enter number. You have 10 guesses!");
+
+		//variables 
+		int guessCount = 1;
+		int attempt = 10;
+		
+		
+		
+	//generate random number 1 - 100
+		int randomNum = (int) (Math.random() * 100);
+	
+		//You have 10 guess
+		do 
+		{
+			int guess = input.nextInt();
+			//if the number is greater than random number
+			if(guess > randomNum)
+			{
+			System.out.println("Too high");
+			System.out.println("Try again");
+			attempt--;
+			guessCount++;
+			System.out.println("You have " + attempt + " left.");
+			}
+			
+		//if number is less than random number
+			else if(guess < randomNum)
+				{
+				System.out.println("Too Low");
+				System.out.println("Try again");
+				attempt--;
+				guessCount++;
+				System.out.println("You have " + attempt + " left.");
+				}
+			
+		//if right number
+			else
+			{
+				System.out.println("Correct, Congrats!");
+				System.out.println("You won nothing but you did guess " + guessCount + " this many times. Thank you for playing the Guessing Game!");
+				break;
+				
+			}
+			//
+			if(guessCount == 10)
+			{
+				System.out.println("You Lose... better luck next time. Number was " + randomNum + ". Thank you for playing the Guessing Game!");
+			}
+		}//end of program guessing
+		while (guessCount < 10 );
+		
+	}//end main
+
+}//end class
