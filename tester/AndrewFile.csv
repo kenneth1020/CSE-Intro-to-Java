@@ -1,0 +1,501 @@
+Index,Company Name,Country,Region of the World ,Country of Origin,Client Description,FRDM Category,Client Product Description,Priority,FRDM Product Code
+999,OLD MUTUAL PROPERTIES,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Medium,80100000
+1000,POWERTEL COMMUNICATIONS,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-PersEquip,Medium,43191609
+1001,TELONE,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-VoDtBilling,High,81161703
+1002,ZIMPOST-COURIER SERVICES,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Low,73151600
+1003,DAWN PROPERTY CONSULTANCY (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Medium,80100000
+1004,PACPRINT PVT LTD,Zimbabwe,Africa & Middle East,ZWE,Uncategorised,Printing Machinery and Equipment Manufacturing,Uncategorised,Low,60121132
+1005,SAFEGUARD ALARMS (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Security,Security,Low,80100000
+1006,SECURICO SECURITY SERVICES,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Security,SecrdServ,High,82121509
+1007,STANDARD TELEPHONES & CABLES,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-PersEquip,Medium,43191609
+1008,STUTTAFORDS (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Low,73151600
+1009,TENDO ELECTRONICS & POWER ENGI,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,High,80101504
+1010,TRAVEL INTERNATIONAL PVT LTD,Zimbabwe,Africa & Middle East,ZWE,Travel,Travel Agencies,Hotel&Servapart,Medium,53121801
+1011,WATERCOOLERS ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Others,Low,44103101
+1012,WILLCHART ENTERPRISES,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,Srvc-Others,Low,81161703
+1013,MANATSA LOVEMORE T,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,GrndsMaint,Low,80101500
+1014,XHARI ENTERPRISES,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Others,Low,80101508
+1015,ZIMBABWE NATIONAL WATER AUTHORITY,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,WaterSew,Low,49241704
+1016,ZIMOCO LIMITED,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Security,SecrdServ,High,82121509
+1017,PROF HAWKINS,Zimbabwe,Africa & Middle East,ZWE,Professional Services,FINANCE,FinServ,Low,84111802
+1018,TECHSOL SYSTEMS,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,Srvc-Others,Low,81161703
+1019,TOYOTA ZIMBABWE,Zimbabwe,Africa & Middle East,JPN,HR,Human Resources Consulting Services,StaffBenefits,Low,43231505
+1020,TOYOTA ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,StaffBenefits,Low,43231505
+1021,Total Zimbabwe (Private) Limited,Zimbabwe,Africa & Middle East,ZWE,Travel,Travel Agencies,Transport(fees),Medium,53121801
+1022,M/SVINGO BUSINESS EXP,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1023,WILLIES KITCHEN,Zimbabwe,Africa & Middle East,ZWE,Property,Caterers,Cater&Vending,Low,48101909
+1024,SAFE DEN SECURITY SYSTEMS PRIVATE,Zimbabwe,Africa & Middle East,ZWE,Property,Security,Security,Low,80100000
+1025,Bindura Business Expense,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1026,BYO BUS EXPENSES,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1027,CHINHOYI BUS EXPENSES,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1028,KADOMA BUS EXPENSES,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1029,GWERU BUS EXPENSE,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1030,MUTARE BUS EXPENSES,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1031,R MUGABE BUS EXPENSE,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1032,S/TON BUS EXPENSES,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1033,HWANGE BUS EXPENSES,Zimbabwe,Africa & Middle East,ZWE,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,80101500
+1034,AUTOPAY (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,PayRollServ,Low,84111505
+1035,DETECTION TECHNOLOGIES,Zimbabwe,Africa & Middle East,ZWE,Property,Security,Security,Low,80100000
+1036,CROCO INVESTMENTS T/A EASTLE PANEL BEATE,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Security,SecrdServ,Low,82121509
+1037,DHL INTERNATIONAL(DUTY),Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Low,73151600
+1038,MT PLEASANT BUSINESS PARK OWNERS,Zimbabwe,Africa & Middle East,ZWE,Uncategorised,Real Estate Services,Uncategorised,Low,80101500
+1039,FINANCIAL GAZETTE P/L,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Media,Low,80101508
+1040,BANKERS ASSOCIATION OF ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,Others,Medium,43231505
+1041,TELECONTRACT (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-PersEquip,Low,43191609
+1042,COMPULINK SYSTEMS P/L,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,Srvc-Others,Low,43230000
+1043,IMAGING SOLUTIONS,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Others,Low,80101508
+1044,NYARADZO FUNERAL ASSURANCE,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,Others,Low,43231505
+1045,VISUAL POINT GRAPHICS,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Media,Low,80101508
+1046,SUNEAGLES INVESTMENTS,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Sponsorship,Low,80101508
+1047,MESSRS.GILL~GODLONTON & GERRANS,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Legal Services,CrAgencies,Low,80101500
+1048,THOMSON REUTERS,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,Srvc-MrktData,Low,43232300
+1049,ZIMSWITCH TECHNOLOGIES,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,SWDevelop,Low,43211505
+1050,ZIMBABWE BUSINESS COUNCIL ON AIDS,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,Others,Low,43231505
+1051,INSTITUTE OF DIRECTORS,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,Train&Dlvp,Low,86101606
+1052,ZIMPOST (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Low,73151600
+1053,KENAC COMPUTER SYSTEMS,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,Others,Low,43230000
+1054,TOWERS WATSON,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,StaffBenefits,Low,43231505
+1055,HIGHBROW WHOLESALERS,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,DistMkgServ,Low,80141500
+1056,THE INSTITUTE OF INTERNAL AUDITORS,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,Train&Dlvp,Low,86101606
+1057,POTRAZ,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,SWAppli,Low,81161703
+1058,PERAGO FINANCIAL SYSTEM ENABLERS PTY,Zimbabwe,Africa & Middle East,ZAF,Professional Services,FINANCE,CorpFinance,Low,84111802
+1059,PERAGO FINANCIAL SYSTEM ENABLERS PTY,Zimbabwe,Africa & Middle East,ZWE,Professional Services,FINANCE,CorpFinance,Low,84111802
+1060,HOLIDAY INN BYO,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,DistMkgServ,Low,80141500
+1061,DEPOSIT PROTECTION BOARD,Zimbabwe,Africa & Middle East,ZWE,Professional Services,FINANCE,FinServ,High,84111802
+1062,ELECTRO ACOUSTIC SYSTEMS PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,81161703
+1063,LIQUID TELECOM,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-VoDtBilling,Medium,81161703
+1064,NITWICK ENTERPRISES,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,Others,Low,43230000
+1065,SYBRIN LIMITED,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,SWAppli,Low,43230000
+1066,MOTOR TORQUE,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,General Automotive Repair,Others,Low,27113201
+1067,TRUSTLINK (PTY) LTD,Zimbabwe,Africa & Middle East,ZAF,Technology,TECHNOLOGY,SWAppli,Low,43230000
+1068,CARRIER AIR CONDITIONING P/L,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,80101504
+1069,AUTOWORLD HARARE PVT LTD,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,General Automotive Repair,Others,Low,27113201
+1070,CROCO MOTORS,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,General Automotive Repair,Others,High,27113201
+1071,KELHEAD INVESTMENTS,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-VoDtBilling,High,81161703
+1072,POWN ENGINEERING P/L,Zimbabwe,Africa & Middle East,ZWE,Property,General cleaning of buildings,Cleaning,Low,47121501
+1073,ZIMBABWE RED CROSS SOCIETY,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Sponsorship,Low,80101508
+1074,CASDAV CONSULTANTS P/L,Zimbabwe,Africa & Middle East,ZWE,Professional Services,FINANCE,FinServ,Low,84111802
+1075,INSTITUTE OF PEOPLE MANAGEMENT OF ZWE,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,Train&Dlvp,Low,86101606
+1076,INSTITUTE OF CHARTERED SECRETARIES & ADM,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,Others,Low,43231505
+1077,STANDARD GLOBAL COMMUNICATIONS P/L,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,DistMkgServ,Low,80141500
+1078,THE LAW SOCIETY OF ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Legal Services,Legal,Low,80101500
+1079,MOSESLY CONSULTANTS P/L1,Zimbabwe,Africa & Middle East,ZWE,Professional Services,FINANCE,CorpFinance,Low,84111802
+1080,ASSOCIATED NEWSPAPERS OF ZWE,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Newspaper Publishers,Others,Low,55101504
+1081,GLOBAL CREDIT RATING,Zimbabwe,Africa & Middle East,GBR,Professional Services,FINANCE,CorpFinance,Low,84111802
+1082,GLOBAL CREDIT RATING,Zimbabwe,Africa & Middle East,ZWE,Professional Services,FINANCE,CorpFinance,Low,84111802
+1083,HIGHMEL WATER DELIVERIES,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,56111504
+1084,JOCK SMITH SPARYPAINTERS,Zimbabwe,Africa & Middle East,ZWE,BankOpsSrvc,Facilities Support Services,Others,Low,31211501
+1085,NSSA OSH,Zimbabwe,Africa & Middle East,ZWE,Property,Commercial and Institutional Building Construction,R&M,Low,81101500
+1086,MGB ROOFING PVT LTD,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,80101504
+1087,BLIND DECOR,Zimbabwe,Africa & Middle East,ZWE,Property,Commercial and Institutional Building Construction,R&M,Low,81101500
+1088,OK Zimbabwe Limited,Zimbabwe,Africa & Middle East,ZWE,Uncategorised,Retail sale of carpets~ rugs~ wall and floor coverings in specialized stores,Uncategorised,Low,52121500
+1089,CLOVER LEAF PANEL BEATERS,Zimbabwe,Africa & Middle East,ZWE,Travel,Travel Agencies,Others,Low,53121801
+1090,BORROWDALE BROOK HOME OWNER ASS,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Low,80100000
+1091,FIRST BRANDS P/L,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,56111504
+1092,PEARCE MCCOMISH,Zimbabwe,Africa & Middle East,ZWE,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Medium,80101500
+1093,OKMART HILLSIDE,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Medium,56111504
+1094,FIRST MUTUAL LIFE,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,StaffBenefits,Low,43231505
+1095,01 SYSTEMS WLL,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,SWAppli,Low,43230000
+1096,RIO DOURO CONSTRUCTION,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Medium,80101504
+1097,CORRY AND MUKUYU QUANTITY SURVEYORS,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Medium,80101504
+1098,ZIMIND PUBLISHERS PVT LTD,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Newspapers&Periodicals,Low,55101504
+1099,ANGLICAN CATHEDRAL,Zimbabwe,Africa & Middle East,ZWE,Property,Parking Lots and Garages,Parking,Low,80101504
+1100,QUANTUM MEDIA,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Media,Medium,80101508
+1101,CITYOF BYO,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,84111802
+1102,WEBBER AIR ENGINEERING T A PROMECS,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,80101504
+1103,Kuyenzeka Engineering (Private) Limited,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,80101504
+1104,ZIMBABWE ONLINE P/L,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-PersEquip,Medium,43191609
+1105,CRUSADER REAL ESTATE CONSULTANCY PRIVATE,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Legal Services,CrAgencies,Low,80101500
+1106,HWANGE COLLIERY COMPANY LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Low,80100000
+1107,PRINTFLOW,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,82121500
+1108,WEST UC LIMITED,Zimbabwe,Africa & Middle East,GBR,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,81161703
+1109,WEST UC LIMITED,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,81161703
+1110,CROSHIRE INVESTMENTS T/A CELLONE ELECTRO,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,81161703
+1111,ZIMBABWE TOURISM AUTHORITY,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Low,80100000
+1112,WILLIAM SMITH AND GOUROCK,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Others,Low,0
+1113,MUKUTE CONSTRUCTION (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Commercial and Institutional Building Construction,R&M,Medium,0
+1114,TIMELESS PHOTOS (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1115,TRAVERZE TRAVEL (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1116,VALCOL EMPLOYMENT BEREAU (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,PayRollServ,Medium,0
+1117,NILESTROOM ENTEPRISES (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1118,INTEGRATED PROPERTIES (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Management,Low,0
+1119,C C SALES PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Management,Low,0
+1120,MAWERE & SIBANDA LEGAL PRACTITIONER,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1121,DANZIGER AND PARTNERS LEGAL PRACTITIONER,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Legal Services,Legal,Low,0
+1122,SCANLEN & HOLDERNESS,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Legal Services,Legal,Low,0
+1123,TENDAI BITI LAW,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Legal Services,Legal,Low,0
+1124,MUSHIRI S M,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1125,TRACK IT (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,0
+1126,VASCO DATA SECURITY NV/SA,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,SWAppli,Low,0
+1127,PLUMLAKE INCORPORATED (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Furn&equip,Low,0
+1128,KANA DIGITEKH PRINTING SOLUTIONS (PVT),Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1129,ENVIRONMENTAL MANAGEMENT AGENCY,Zimbabwe,Africa & Middle East,ZWE,Property,Environmental Consulting Services,R&M,Low,0
+1130,APPOINTMENT CORPORATE WEAR P/L,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Uniform,Low,0
+1131,XIMEX MANAGEMENT SERVICES (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Low,0
+1132,BRODCASTING AUTHORITY OF ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1133,DIMENSION DATA,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,T&N-Equip,High,0
+1134,Dakuma Investments (Pvt) Ltd,Zimbabwe,Africa & Middle East,ZWE,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1135,Hammer and Tongues Real Estate (Private),Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Management,Low,0
+1136,Mace (Ireland) Limited t/a Mace Promotio,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,DistMkgServ,Low,0
+1137,CA Inc. Lockbox,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,SWAppli,Low,0
+1138,KAMATECH PROJECTS(PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Management,Low,0
+1139,City of Harare City Health Department,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1140,CM & A (Pvt) Ltd,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Media,Low,0
+1141,Tranland Investments (Pvt) Ltd,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Media,Low,0
+1142,FIRST MUTUAL PROPERTIES LIMITED,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1143,Min Taxis (Private) Limited,Zimbabwe,Africa & Middle East,ZWE,Travel,Travel Agencies,Others,Medium,0
+1144,Creative Systems (Private) Limited,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Medium,0
+1145,John Pocock & Company (Pvt) Ltd,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Real estate activities with own or leased property,CrAgencies,Low,0
+1146,Manokore Attorneys,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1147,Pearl Stationery Manufacturing (Pvt) Ltd,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1148,Unihold Investments (Private) Limited,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1149,TM Ribbon Suppliers(Private) Limited,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1150,Silver Cab (Private) Limited,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Others,Low,0
+1151,Metro-Sol (Private) Limited,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Medium,0
+1152,Federated Properties (1992) (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Parking,Low,0
+1153,Enermax(Private) Limited,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Management,Medium,0
+1154,Electronic Documents Centre L.L.C.,Zimbabwe,Africa & Middle East,ARE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1155,Electronic Documents Centre L.L.C.,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1156,Genesis Travel And Tours (Pvt) Ltd,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1157,BUSINESS MONITOR INTERNATIONAL LIMITED,Zimbabwe,Africa & Middle East,GBR,Professional Services,Market research and public opinion polling,Others,Low,0
+1158,BUSINESS MONITOR INTERNATIONAL LIMITED,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Market research and public opinion polling,Others,Low,0
+1159,L S VENTURES PVT LTD,Zimbabwe,Africa & Middle East,ZWE,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1160,ZFN CAPITAL (PRIVATE) LIMITED,Zimbabwe,Africa & Middle East,ZWE,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1161,Spinal Africa Investments Private Limite,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Mach&Appliance,Low,0
+1162,Advertising Industries (1991) Private Li,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Media,Low,0
+1163,CRAFT SILICON LIMITED,Zimbabwe,Africa & Middle East,KEN,Technology,TECHNOLOGY,Others,Low,0
+1164,STANDARD DEVELOPMENT FUND,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Medium,0
+1165,SELECT TECHNOLOGIES PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,HWDesktop,Medium,0
+1166,MINING AND INDUSTRIAL SUPPLIERS,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1167,ELOGANCE INVESTMENTS (PRIVATE) LIMITED,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,DistMkgServ,Low,0
+1168,TWENTY FIRST CENTURY BUILDING,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,0
+1169,PREMIER AUTO SERVICES PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,ExptServ,Medium,0
+1170,CITY PARKING (PVT) LTD,Zimbabwe,Africa & Middle East,ZWE,Property,Parking Lots and Garages,Parking,Medium,0
+1171,CITY OF MASVINGO,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Energy,Low,0
+1172,MUNICIPALITY OF VICTORIA FALLS,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1173,CITY OF KADOMA,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1174,MUNICIPALITY OF CHINHOYI,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1175,GWERU CITY COUNCIL,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1176,MARSH INSURANCE BROKERS ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,Professional Services,INSURANCE,Insurance,Medium,0
+1177,BINDURA MUNICIPALITY,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1178,BRITISH BUSINESS ASSOCIATION IN ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,Professional Services,FINANCE,FinServ,Low,0
+1179,MOPANI PROPERTY DEVELOPMENT PRIVATE LIMI,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1180,ZIMNAT LION INSURANCE COMPANY LIMITED,Zimbabwe,Africa & Middle East,ZWE,Professional Services,INSURANCE,Insurance,Low,0
+1181,TBWA RAAD MIDDLE EAST L L C,Zimbabwe,Africa & Middle East,ARE,Marketing,Marketing Consulting Services,AgencyServFees,Low,0
+1182,STANDFAST CONTRACTORS PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,0
+1183,ESLOG ENTERPRISES PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,DistMkgServ,Low,0
+1184,CITY OF MUTARE,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1185,KWEKWE CITY COUNCIL,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1186,MUNICIPALITY OF MARONDERA,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1187,HWANGE LOCAL BOARD,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Low,0
+1188,CHIREDZI TOWN COUNCIL,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rates&Tax,Low,0
+1189,DR SIMBARASHE ANDREW PFUMOJENA,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1190,HERBERT STANLEY MASHANYARE,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1191,EVLYN MKONDO,Zimbabwe,Africa & Middle East,ZWE,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1192,URBAN AFRICA MEDIA PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Marketing,Marketing Consulting Services,Media,Low,0
+1193,TSEBO SERVCOR PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Management,High,0
+1194,TRAM GRAPHICS PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Medium,0
+1195,ABN TRAINING INSTITUTE PTY LTD,Zimbabwe,Africa & Middle East,ZAF,HR,Human Resources Consulting Services,Train&Dlvp,Low,0
+1196,EDNASH INVESTMENTS PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Professional Services,Management consultancy activities,MgtConsult,Medium,0
+1197,RAFFLES FASHIONS PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Uniform,Low,0
+1198,TUREZINVESTMENTS PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Rent,Medium,0
+1199,ASSOCIATED TYRES PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,R&M,Low,0
+1200,CA ARABIA FZ LLC,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,SWAppli,Low,0
+1201,OPTIMA LEGAL PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Technology,TECHNOLOGY,Srvc-Consult,Low,0
+1202,WEST UC HONG KONG LTD,Zimbabwe,Africa & Middle East,HKG,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1203,RESERVE BANK OF ZIMBABWE,Zimbabwe,Africa & Middle East,ZWE,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1204,NIRANA PVT LTD,Zimbabwe,Africa & Middle East,ZWE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Uniform,Low,0
+1205,FAIR ISAAC CORPORATION,Zimbabwe,Africa & Middle East,USA,Technology,TECHNOLOGY,SWAppli,Low,0
+1206,NEW SYSTEMNS JOINERY PRIVATE LIMITED,Zimbabwe,Africa & Middle East,ZWE,Property,Real Estate Services,Management,Low,0
+1207,CHENGETEDZAI DEPOSITORY COMPANY LIMITED,Zimbabwe,Africa & Middle East,ZWE,Uncategorised,FINANCE,Uncategorised,Low,0
+1208,ASSOCIATION OF TANZANIA EMPLOYERS,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1209,AUA INDUSTRIA GROUP LIMITED,Tanzania,Africa & Middle East,TZA,Property,Commercial and Institutional Building Construction,R&M,Medium,0
+1210,THE COPYCAT TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Others,Medium,0
+1211,COMPUTER CENTRE (T) LTD,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,HWDesktop,Low,0
+1212,MULTICHOICE TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,Media,Low,0
+1213,NILI'S MAGAZINE DISTRIBUTORS,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1214,HARBOUR VIEW SUITES LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Low,0
+1215,CONCRETE SYSTEMS LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Management,Low,0
+1216,DHL TANZANIA LTD,Tanzania,Africa & Middle East,DEU,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Medium,0
+1217,DHL TANZANIA LTD,Tanzania,Africa & Middle East,TZA,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Medium,0
+1218,NOVELTY EAST AFRICALIMITED,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1219,NATIONAL INSURANCE CORP(T) LTD,Tanzania,Africa & Middle East,TZA,Professional Services,INSURANCE,Insurance,Medium,0
+1220,PRICE WATERHOUSE COOPERS LTD,Tanzania,Africa & Middle East,TZA,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1221,SIMBA NET (T) LTD,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Medium,0
+1222,SOUTHERNSUN HOTELS (TANZANIA) LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1223,SCI TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,ATM Maint,Medium,0
+1224,THE GUARDIAN LIMITED,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,Media,Low,0
+1225,TANZANIA INSTITUTE OF BANKERS,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,Train&Dlvp,Low,0
+1226,TOYOTA TANZANIA LTD,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Medium,0
+1227,TANZANIA POSTS CORPORATION,Tanzania,Africa & Middle East,TZA,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Low,0
+1228,TANZANIA TELECOMMUNICATIONS CO. LTD,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1229,VODACOM TANZANIA PUBLIC LIMITED COMPANY,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Medium,0
+1230,WALJI'S TRAVEL BUREAU LTD,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Transport(fees),Medium,0
+1231,XPRESS RENT A CAR,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Transport(fees),Medium,0
+1232,ZAMZAM STATIONERY SUPERMARKET,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1233,IMAGING SMART,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,Media,Low,0
+1234,INTERNATIONAL HOUSE PROPERTY,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,High,0
+1235,AIRTEL TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1236,THE LIVING ROOM LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Furn&equip,Low,0
+1237,BLOOMBERG FINANCE LP,Tanzania,Africa & Middle East,USA,Technology,TECHNOLOGY,Srvc-MrktData,Medium,0
+1238,EQUANT TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1239,01 SYSTEMS WLL,Tanzania,Africa & Middle East,BHR,Technology,TECHNOLOGY,SWAppli,Low,0
+1240,REUTERS LTD,Tanzania,Africa & Middle East,GBR,Technology,TECHNOLOGY,Srvc-MrktData,Medium,0
+1241,REUTERS LTD,Tanzania,Africa & Middle East,ZAF,Technology,TECHNOLOGY,Srvc-MrktData,Medium,0
+1242,FINASTRA TECHNOLOGY INC,Tanzania,Africa & Middle East,GBR,Technology,TECHNOLOGY,SWAppli,Low,0
+1243,FINASTRA TECHNOLOGY INC,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,SWAppli,Low,0
+1244,LABOUR'S CHIEF FACTORY INSPECTION UNIT,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1245,SOFTNET TECHNOLOGIES LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,SWDesktop,Medium,0
+1246,BRITAM INSURANCE (TANZANIA) LTD,Tanzania,Africa & Middle East,TZA,Professional Services,INSURANCE,Insurance,Medium,0
+1247,SHOPPERS PLAZA,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Medium,0
+1248,WALJI'S TRAVEL BUREAU LTD FOREIGN CURREN,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Transport(fees),Medium,0
+1249,FK LAW CHAMBERS,Tanzania,Africa & Middle East,TZA,Professional Services,Legal Services,Legal,Low,0
+1250,MWANANCHI COMMUNICATIONS LIMITED,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Others,Low,0
+1251,ZANZIBAR TELECOM LTD,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1252,IMMMA ADVOCATES,Tanzania,Africa & Middle East,TZA,Professional Services,Legal Services,Legal,Low,0
+1253,HOTEL SEA CLIFF LTD,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1254,SGA CASH IN TRANSIT T LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,ResOps,Medium,0
+1255,DELOITTE CONSULTING LTD,Tanzania,Africa & Middle East,TZA,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1256,DELOITTE CONSULTING LTD,Tanzania,Africa & Middle East,USA,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1257,HUGO DOMINGO,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,DistMkgServ,Low,0
+1258,SPICE HOTELLIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1259,SEA CLIFF COURT LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1260,SELCOM PAYTECH PUBLIC LIMITED COMPANY,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,Srvc-Others,Low,0
+1261,VASCO DATA SECURITY ASIA PACIFIC PTE LTD,Tanzania,Africa & Middle East,SGP,Technology,TECHNOLOGY,SWAppli,Low,0
+1262,VASCO DATA SECURITY ASIA PACIFIC PTE LTD,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,SWAppli,Low,0
+1263,DAR ES SALAAM WATER AND SEWERAGE,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,WaterSew,Low,0
+1264,HYATT REGENCY DAR ES SALAAM -,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1265,YONO AUCTION MART AND COMPANY LTD,Tanzania,Africa & Middle East,TZA,BankOpsSrvc,Management consultancy activities,Storage,Low,0
+1266,DAR ES SALAAM SERENA HOTEL,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1267,MFI MANAGED DOCUMENT SOLUTIONS LIMITED,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Mach&Appliance,Low,0
+1268,FBNE LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Management,Low,0
+1269,ERNST & YOUNG,Tanzania,Africa & Middle East,TZA,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1270,SHAMO INDUSTRIES & CO (T) LTD,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Energy,Low,0
+1271,COMSEC SECURITY SYSTEMS LIMITED,Tanzania,Africa & Middle East,TZA,Property,Security,Security,Medium,0
+1272,WEST UC LIMITED,Tanzania,Africa & Middle East,GBR,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1273,WEST UC LIMITED,Tanzania,Africa & Middle East,HKG,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1274,WEST UC LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1275,KIBO PALACE HOTELS AND RESORT LTD,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Others,Low,0
+1276,DAR ES SALAAM STOCK EXCHANGE,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-Equip,Low,0
+1277,G4S SECURE SOLUTIONS (T) LIMITED,Tanzania,Africa & Middle East,TZA,BankOpsSrvc,Security,SecrdServ,High,0
+1278,LAND MASTERS COMBINE LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1279,CREDITINFO TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,CrAgencies,Low,0
+1280,VENDING SERVICES (T) LTD,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1281,K&M ADVOCATES,Tanzania,Africa & Middle East,TZA,Professional Services,Legal Services,Legal,Low,0
+1282,Electronic Documents Centre L.L.C,Tanzania,Africa & Middle East,ARE,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1283,Electronic Documents Centre L.L.C,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1284,APERTA LTD,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,SWAppli,Low,0
+1285,ALCOVE HOLDINGS LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Events,Low,0
+1286,IPSOS TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,AgencyServFees,Low,0
+1287,CELLULANT TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Medium,0
+1288,AFRICAN VILLAGE ESTATE CO. LTD,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Low,0
+1289,MWEMA ADVOCATES,Tanzania,Africa & Middle East,TZA,Professional Services,Legal Services,Legal,Low,0
+1290,PROPERTYWISE (T) LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,CrAgencies,Low,0
+1291,TANZANIA BANKERS ASSOCIATION LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1292,BON VOYAGE TRAVEL CENTRE LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Transport(fees),Low,0
+1293,SCI TECHNOLOGIES LIMITED,Tanzania,Africa & Middle East,TZA,BankOpsSrvc,Security,SecrdServ,Low,0
+1294,TREADSTONE CONSULTING LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,SWAppli,Low,0
+1295,OMAR ISSA SURVE,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1296,JAMANA PRINTERS LIMITED,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1297,MONAS BEVERAGES CO LIMITED,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1298,HOTEL TILAPIA LTD,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1299,MALOLO BAZAAR,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1300,MULTI TECHNICAL INVESTMENTS LTD,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1301,CA TECHNOLOGIES,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,SWAppli,Low,0
+1302,ISON TECHNOLOGIES TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-Equip,Low,0
+1303,THE JUBILEE INSURANCE CO.OF TANZANIA LTD,Tanzania,Africa & Middle East,TZA,Professional Services,INSURANCE,Insurance,High,0
+1304,RUSHDA ENTERPRISES,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1305,REED BUSINESS INFORMATION LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1306,TECHNOLOGY ASSOCIATES LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,ATM Maint,Medium,0
+1307,Continental Capital Markets,Tanzania,Africa & Middle East,TZA,Professional Services,FINANCE,FinServ,Low,0
+1308,Elite Computers Tanzania Limited,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-PersEquip,Low,0
+1309,TKA COMPANY LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1310,ERNST & YOUNG Advisory Pte Ltd,Tanzania,Africa & Middle East,TZA,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1311,ERNST & YOUNG Advisory Pte Ltd,Tanzania,Africa & Middle East,USA,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1312,The Express Hotel Limited,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1313,Knight Frank IHP Service Charge,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Medium,0
+1314,CABLE TELEVISION NETWORK (CTV) LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1315,M AND R AGENCY LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,CrAgencies,Low,0
+1316,KPMG,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Audit&Acctng,Medium,0
+1317,THE TANGANYIKA FARMERS ASSOCIATION,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Energy,Low,0
+1318,COASTAL FRUITS LIMITED,Tanzania,Africa & Middle East,TZA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1319,KELA SUPERMARKET,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1320,BRONWYN NIELSEN T A VISION ZONE,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,Train&Dlvp,Low,0
+1321,BRONWYN NIELSEN T A VISION ZONE,Tanzania,Africa & Middle East,ZAF,HR,Human Resources Consulting Services,Train&Dlvp,Low,0
+1322,CAPITAL MARKETS AND SECURITIES AUTHORITY,Tanzania,Africa & Middle East,TZA,Professional Services,Legal Services,Legal,Low,0
+1323,ARUSHA INTERNATIONAL CONFERENCE,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1324,SALUTE FINANCE LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Transport(fees),Low,0
+1325,YOUNG LEADERS ORGANISATION LIMITED,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,Train&Dlvp,Low,0
+1326,CEO ROUNDTABLE OF TANZANIA,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1327,TOP ARCHIVE EA LIMITED,Tanzania,Africa & Middle East,TZA,BankOpsSrvc,Management consultancy activities,Storage,Medium,0
+1328,CITY PLAZA LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Medium,0
+1329,DENTSU AEGIS NETWORK TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,Media,Low,0
+1330,KPMG ADVISORY LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Audit&Acctng,Low,0
+1331,BEACH RESIDENCE LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1332,DATA CENTRE LIMITED,Tanzania,Africa & Middle East,KEN,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1333,ALLTERRAIN SERVICES TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Management,High,0
+1334,BRITISH BUSINESS GROUP,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,Sponsorship,Low,0
+1335,EMAX GENERAL TRADERS,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,R&M,Low,0
+1336,VIETTEL TANZANIA LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-Equip,Low,0
+1337,RADAR LIMITED,Tanzania,Africa & Middle East,TZA,HR,Human Resources Consulting Services,Recrut&Temps,Low,0
+1338,Rocket Products Limited,Tanzania,Africa & Middle East,TZA,Marketing,Marketing Consulting Services,DistMkgServ,Low,0
+1339,OILCOMT LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,ResOps,Low,0
+1340,DUN AND BRADSTREET CREDIT,Tanzania,Africa & Middle East,TZA,Professional Services,All Other Professional~ Scientific~ and Technical Services,CrAgencies,Low,0
+1341,MAISHA SUPERMARKET LIMITED,Tanzania,Africa & Middle East,TZA,Property,Caterers,Cater&Vending,Low,0
+1342,STRIDE VENTURE,Tanzania,Africa & Middle East,KEN,HR,Human Resources Consulting Services,StaffBenefits,Low,0
+1343,TPB BANK PUBLIC LIMITED COMPANY,Tanzania,Africa & Middle East,TZA,BankOpsSrvc,Security,SecrdServ,Low,0
+1344,CSD AND REGISTRY COMPANY LIMITED,Tanzania,Africa & Middle East,TZA,Professional Services,INSURANCE,Insurance,Low,0
+1345,FATIM FIDAHUSSEIN RASHID,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Low,0
+1346,BADI ATHUMANI NKYA,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Low,0
+1347,CCECC EAST AFRICA LIMITED,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Low,0
+1348,EDITH CLAUDIA MKONDYA,Tanzania,Africa & Middle East,TZA,Property,Real Estate Services,Rent,Low,0
+1349,XTRA MICRO LIMITED,Tanzania,Africa & Middle East,TZA,Technology,TECHNOLOGY,T&N-VoDtBilling,Low,0
+1350,SWACHEN ENTERPRISES LIMITED,Tanzania,Africa & Middle East,TZA,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,0
+1351,BROLL KENYA LIMITED,Tanzania,Africa & Middle East,KEN,Property,Real Estate Services,Uni-BldMgtFee,Low,0
+1352,CMC RENT A CAR LIMITED,Tanzania,Africa & Middle East,TZA,Travel,Travel Agencies,Transport(fees),Low,0
+1353,J M D TRAVELS SERVICES,Tanzania,Africa & Middle East,TZA,Uncategorised,TRAVEL,Uncategorised,Low,0
+1354,BRISCOE ATTORNEYS,Botswana,Africa & Middle East,BWA,Professional Services,Legal Services,Legal,Low,0
+1355,PASTICHE (PROPRIETARY) LIMITEDt/aA,Botswana,Africa & Middle East,BWA,Uncategorised,Office Equipment Merchant Wholesalers,Uncategorised,Low,0
+1356,CENTURY OFFICE SUPPLIES,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Mach&Appliance,Low,0
+1357,BYTES TECHNOLOGY GROUP BOTSWANA,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,ATM Maint,High,0
+1358,AGORA PROPERTIES (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1359,ORANGE (BOTSWANA) (PROPRIETARY) LIMITED,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,T&N-VoDtBilling,Medium,0
+1360,KNIGHT FRANK,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1361,SPRINT COURIERS (PTY) LTD,Botswana,Africa & Middle East,BWA,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,High,0
+1362,I.C.L BOTSWANA (PTY) LTD,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,HWDesktop,Medium,0
+1363,ELLIOTT MOBILITY PROPRIETARY LIMITED,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Transport(fees),Low,0
+1364,DHL INTERNATIONAL (BOTSWANA) (PROPRIETAR,Botswana,Africa & Middle East,BWA,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Low,0
+1365,KHUMO PROPERTY ASSET MANAGEMENT,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1366,J.HASKINS & SONS (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1367,SECURITY SYSTEMS (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Security,Security,High,0
+1368,G4S (BOTSWANA) LIMITED,Botswana,Africa & Middle East,BWA,BankOpsSrvc,Security,SecrdServ,High,0
+1369,AVANI GABORONE HOTEL & CASINO,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Medium,0
+1370,SCB GABORONE INDUSTRIAL BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1371,SCB GAME CITY BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1372,SCB HEMAMO HOUSE BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1373,SCB JWANENG BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1374,SCB LOBATSE BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1375,SCB MALL BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1376,SCB MAUN BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1377,KGALAGADI PLASTIC INDUSTRIES (PROPRIETAR,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1378,MASSYN MOVES,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Transport(fees),Low,0
+1379,AVIS FLEET SERVICES BOTSWANA,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Transport(fees),Medium,0
+1380,CELL-CONNECT (PTY) LTD,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,T&N-VoDtBilling,Medium,0
+1381,WATER UTILITIES CORPORATION,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,WaterSew,Low,0
+1382,KPMG,Botswana,Africa & Middle East,BWA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Audit&Acctng,Medium,0
+1383,MOTHEO APARTMENTS,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1384,BOTSWANA POST,Botswana,Africa & Middle East,BWA,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,High,0
+1385,COLLINS NEWMAN & CO,Botswana,Africa & Middle East,BWA,Professional Services,Legal Services,Legal,Low,0
+1386,OUTSOURCED SOLUTION (PTY) LTD TA MAILING,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,High,0
+1387,SCREEN PRINT (PTY) LTD T/A TRODAT,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1388,NORTHERN FIXTURES (PTY)LTD,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,OffSup,Low,0
+1389,SHUCHI HOUSE (PTY)LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1390,CRESTA BOSELE HOTEL,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1391,CRESTA BOTSALO HOTEL,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1392,GRAND PALM HOTEL,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1393,CRESTA MARAKANELO (PROPRIETARY) LIMITED,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1394,CRESTA MARANG GARDENS,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1395,CRESTA PRESIDENT HOTEL,Botswana,Africa & Middle East,BWA,Marketing,Marketing Consulting Services,DistMkgServ,Low,0
+1396,CRESTA RILEY S HOTEL,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1397,CRESTA THAPAMA LODGE,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1398,AON BOTSWANA (PTY) LTD,Botswana,Africa & Middle East,BWA,Professional Services,Management consultancy activities,MgtConsult,High,0
+1399,SCB FRANCISTOWN BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1400,SCB MAHALAPYE BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1401,SCB ORAPA BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1402,SCB PALAPYE BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1403,SCB SELIBE PHIKWE BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1404,SCB SEROWE BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1405,CABLING FOR AFRICA,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,Others,Low,0
+1406,SNAP BOTSWANA PTY LTD TA CANON OFFICE,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Mach&Appliance,Medium,0
+1407,CRYSTAL DIGITAL PRINT,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1408,DRIVE IN CINEMA (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1409,ITEC BOTSWANA,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Mach&Appliance,Medium,0
+1410,PRINTING & PUBLISHING CO. BOTS,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1411,MASCOM WIRELESS (PTY) LTD,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,T&N-VoDtBilling,Medium,0
+1412,SPEEDTECH BOTSWANA,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Mach&Appliance,Low,0
+1413,SAJAMA ENTERPRISES (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1414,AVIS RENT-A-CAR,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Transport(fees),Low,0
+1415,KINGSLEY & ASSOCIATES (BOTSWANA),Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1416,HARVEY WORLD TRAVEL GABORONE,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Others,Medium,0
+1417,BOTSWANA POWER CORPORATION,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Energy,High,0
+1418,AIR BOTSWANA CORPORATION,Botswana,Africa & Middle East,BWA,BankOpsSrvc,Couriers and Express Delivery Services,Courier&mail,Low,0
+1419,UNIVERSAL BUILDERS BOTSWANA,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1420,SOMERSET INVESTMENTS,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Medium,0
+1421,TRANS AFRICA (PTY)LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1422,SYPOL INVESTMENTS,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1423,THE PLOT 1471/2 PARTNERSHIP,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1424,UNIVERSITY OF BOTSWANA,Botswana,Africa & Middle East,BWA,HR,Human Resources Consulting Services,Train&Dlvp,Low,0
+1425,OP ADVERTISING PTY LTD,Botswana,Africa & Middle East,BWA,Marketing,Marketing Consulting Services,Media,Medium,0
+1426,SHOWGROUP PRODUCTIONS & STAGING SERVICES,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Events,Medium,0
+1427,NASHUA BOTSWANA,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Mach&Appliance,Low,0
+1428,ARC (PTY) LTD,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,T&N-PersEquip,Medium,0
+1429,KWENA PROPERTY SERVICES (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Acq&Disp,Low,0
+1430,INFORCASE TECHNOLOGY (PTY) LTD,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,Others,High,0
+1431,MULTICHOICE BOTSWANA PROPRIETARY LIMITED,Botswana,Africa & Middle East,BWA,Marketing,Marketing Consulting Services,Media,Low,0
+1432,CROWN WORLDWIDE BOTSWANA(PROPRIETARY),Botswana,Africa & Middle East,BWA,HR,Human Resources Consulting Services,ExptServ,Medium,0
+1433,SCAN DISPLAY PTY LTD,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,PrintProdt,Low,0
+1434,ROSCOE BONNA VALUERS,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Acq&Disp,Low,0
+1435,LEHIKA INVESTMENTS (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1436,SUSAN INVESTMENTS (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1437,SEFALANA CASH & CARRY LIMITED,Botswana,Africa & Middle East,BWA,HR,Human Resources Consulting Services,StaffBenefits,Medium,0
+1438,PRICEWATERHOUSE COOPERS PTY LTD,Botswana,Africa & Middle East,BWA,Professional Services,Management consultancy activities,MgtConsult,Low,0
+1439,BOGOPA AND MANEWE ATTORNEYS,Botswana,Africa & Middle East,BWA,Professional Services,Legal Services,Legal,Low,0
+1440,UNITED COMPUTER AND MANAGEMENT,Botswana,Africa & Middle East,ARE,Technology,TECHNOLOGY,HWServer,Low,0
+1441,ARMA HOLDINGS INVESTMENTS(PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1442,DIMENSION DATA BOTSWANA,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,T&N-Equip,Low,0
+1443,PEERMONT GLOBAL BOTSWANAPTY LTD,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1444,TURNSTAR HOLDINGS LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1445,PRIMETIME PROPERTY HOLDING LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1446,DESERT SANDS MOTEL,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1447,CREDIT REFERENCE BUREAU,Botswana,Africa & Middle East,BWA,Professional Services,All Other Professional~ Scientific~ and Technical Services,CrAgencies,Medium,0
+1448,GRANT THORNTON,Botswana,Africa & Middle East,BWA,Professional Services,All Other Professional~ Scientific~ and Technical Services,FinServ,Low,0
+1449,PROPERTYWORLD (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Acq&Disp,Low,0
+1450,DEBSWANA DIAMOND COMPANY PTY LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1451,RDC PROPERTIES,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,High,0
+1452,FAIRGROUND HOLDINGS (PTY) LTD,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Others,Low,0
+1453,MIA PROPERTIES (PTY) LIMITED,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1454,Reuters Limited,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,Srvc-MrktData,Medium,0
+1455,METROFILE RECORDS AND INFORMATION,Botswana,Africa & Middle East,BWA,BankOpsSrvc,Management consultancy activities,Storage,Low,0
+1456,PRIMEDIA OUTDOOR BOTSWANA,Botswana,Africa & Middle East,BWA,Marketing,Marketing Consulting Services,Media,Low,0
+1457,JCDECAUX BOTSWANA (PROPRIETARY) LIMITED,Botswana,Africa & Middle East,BWA,Marketing,Marketing Consulting Services,Media,Low,0
+1458,NETWORK INTERNATIONAL LLC,Botswana,Africa & Middle East,BWA,BankOpsSrvc,Management consultancy activities,CrCardProd,Low,0
+1459,TRAVELWISE,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Transport(fees),High,0
+1460,Masego Laetsang,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1461,PROFILE MEDIA PTY LTD,Botswana,Africa & Middle East,BWA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1462,PROFILE MEDIA PTY LTD,Botswana,Africa & Middle East,ZAF,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1463,BUSINESS & ENTERPRISE SOLUTIONS BOTSWANA,Botswana,Africa & Middle East,BWA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1464,Virgin Enterprises (Pty) Ltd t/a Oasis,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1465,Central Securities Depositor Botswana,Botswana,Africa & Middle East,BWA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1466,SPACE & PLACE (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1467,Riberry (Pty) Ltd,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Acq&Disp,Low,0
+1468,BLOOMBERG LP,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,Srvc-MrktData,Medium,0
+1469,Securities & Trading Technology (Pty)Ltd,Botswana,Africa & Middle East,BWA,Professional Services,All Other Professional~ Scientific~ and Technical Services,Others,Low,0
+1470,PRIORITY BANKING,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1471,Bonolo W. Phaphe,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1472,Dinos Holdings (Pty) Ltd,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1473,Interprop (Pty) Ltd,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1474,PROPERTY DEVELOPMENT & VALUATION,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Acq&Disp,Low,0
+1475,Botswana Stock Exchange,Botswana,Africa & Middle East,BWA,Professional Services,FINANCE,CorpFinance,Low,0
+1476,Botswana Housing Corporation,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1477,Sphinx Associates (Pty) Ltd,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1478,CRESTA MOWANA SAFARI RESORT AND SPA,Botswana,Africa & Middle East,BWA,Travel,Travel Agencies,Hotel&Servapart,Low,0
+1479,E.N.Fleetwood-Bird,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1480,Tsetseng Investments (Pty) Ltd,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1481,Alahub Holdings (Pty) Ltd,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1482,G.H Group (Pty) Ltd,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1483,DIREMOGOLOPTY LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1484,Dirang News Paper Distributors,Botswana,Africa & Middle East,BWA,OfficeSerSupp,Office Supplies (except Paper) Manufacturing,Others,Low,0
+1485,OLYMPUS PROPERTIES (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1486,LOTSANE TRADING (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1487,01 SYSTEMS,Botswana,Africa & Middle East,BWA,Technology,TECHNOLOGY,SWAppli,Low,0
+1488,CENTURION CEILINGS AND PARTITIONS,Botswana,Africa & Middle East,BWA,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Low,0
+1489,SCB AIRPORT JUNCTION BRANCH,Botswana,Africa & Middle East,BWA,Branch-Expense,All Other Business Support Services,Branch-Expense,Low,0
+1490,MULTIMEDIA GRAPHIX,Botswana,Africa & Middle East,BWA,Property,All Other Professional~ Scientific~ and Technical Services,Fitout&Improv,Medium,0
+1491,JTTM PROPERTIES (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1492,MASEGO PHAKEDI,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1493,FEUNE (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1494,ROMAN CATHOLIC CHURCH YOUTH,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1495,TURNSTAR HOLDINGS (PTY) LTD-FRANCISTOWN,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Medium,0
+1496,MASHAMBE INVESTMENTS (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1497,NAFPROP (PTY) LTD,Botswana,Africa & Middle East,BWA,Property,Real Estate Services,Rent,Low,0
+1498,LIILY WHITE (PTY) LTD,Botswana,Africa & Middle East,BWA,Marketing,Marketing Consulting Services,DistMkgServ,Low,0
